@@ -1,6 +1,4 @@
-import os 
 import gdown
-import subprocess
 
 UNPROCESSED_URL:str = "https://drive.google.com/drive/u/0/folders/1yrEpkupqJtN-Pdg5D8cd3n893WbfsQgi"
 PROCESSED_URL:str = "https://drive.google.com/drive/u/0/folders/173sLVBjS-9rqEjMZB-9PK3yKBZ0-w_as"
